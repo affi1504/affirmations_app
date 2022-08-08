@@ -2,7 +2,7 @@
 <h2>Contents</h2>
 
 This is an android app containing concepts of
-1. RecyclerVew
+1. RecyclerView
 1. ViewAdapter and ViewHolder
 
 Affirmations App contains a RecyclerView where each Item in RecyclerView is an ImageView and TextView Containing a background Image and an Affirmation text that is loaded from the Affirmations Data stored in the App
