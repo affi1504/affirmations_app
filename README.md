@@ -1,4 +1,4 @@
-# Android Dice Roller App
+# Android Affirmations App
 <h2>Contents</h2>
 
 This is an android app containing concepts of
